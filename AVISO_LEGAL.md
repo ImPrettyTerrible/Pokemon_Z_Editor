@@ -6,6 +6,6 @@ Está prohibido su uso con fines comerciales o en proyectos que infrinjan derech
 
 Puedes modificarlo o compartirlo libremente siempre que mantengas los créditos del autor original y no lo utilices para fines lucrativos.
 
-Todos los derechos sobre el juego original pertenecen a sus respectivos creadores. (Pokémon Z - Eric Lostie https://lostiefangames.blogspot.com/p/pokemon-anil.html)
+Todos los derechos sobre el juego original pertenecen a sus respectivos creadores. (Pokémon Z - Eric Lostie (https://lostiefangames.blogspot.com/p/pokemon-z.html)
 Pokémon y todos los nombres, personajes y materiales relacionados son propiedad de **The Pokémon Company**, **Nintendo** y **Game Freak**.  
 Este proyecto es una herramienta fanmade sin fines comerciales realizado por mera diversión y difundido con el fin de ayudar a la comunidad.
